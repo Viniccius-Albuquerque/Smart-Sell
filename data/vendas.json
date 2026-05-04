@@ -1,0 +1,13 @@
+[
+    {
+        "produto": "ll",
+        "valor_aparelho": 20.0,
+        "entrada": 0.0,
+        "desconto": 0.0,
+        "valor_final": 20.0,
+        "troco": 30.0,
+        "data": "04/05/2026 16:19",
+        "cliente": "N\u00e3o informado",
+        "pagamento": "Dinheiro"
+    }
+]
