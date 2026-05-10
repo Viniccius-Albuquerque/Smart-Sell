@@ -1,1 +1,0 @@
-from core.dados import registro_vendas
