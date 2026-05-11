@@ -31,7 +31,7 @@ def processar_estoque(estoque, perfil):
         menu_estoque()
         
         if perfil == "vendedor":
-            print(f"\nModo visualização (sem permissão para editar)")
+            print(f"\nModo visualização (sem permissão para editar)")#aaaaaaaaaaa
         
         try:
             escolha = int(input("\nSelecione ação: "))
