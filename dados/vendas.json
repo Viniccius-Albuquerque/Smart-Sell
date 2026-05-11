@@ -88,5 +88,15 @@
         "troco": 0.0,
         "data": "10/05/2026 00:20",
         "vendedor": "gerente"
+    },
+    {
+        "produto": "arroz",
+        "valor_aparelho": 8.0,
+        "entrada": 0.0,
+        "desconto": 0.0,
+        "valor_final": 8.0,
+        "troco": 0.0,
+        "data": "11/05/2026 11:45",
+        "vendedor": "gerente"
     }
 ]
