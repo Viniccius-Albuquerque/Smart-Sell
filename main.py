@@ -78,7 +78,7 @@ def processar_vendas(estoque, registro_vendas, perfil):
         elif escolha == 0:
             break
         else:
-            print("Opção inválida!")
+            print("Opção inválida!") #teste
             pausar()
     
     return estoque, registro_vendas
