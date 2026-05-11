@@ -89,7 +89,7 @@ def creditos():
     from core.config import VERDE_CLARO
     print("-=-"*20)
     print(VERDE_CLARO + "𝓐 𝓬 𝓱 𝓲 𝓵 𝓵 𝓮 𝓼   𝓢 𝓪 𝓷 𝓽 𝓸 𝓼" + RESET)
-    print(VERDE_CLARO + "𝑽 𝒊 𝒏 𝒊́ 𝒄 𝒊 𝒖 𝒔   𝑨 𝒍 𝒃 𝒖 𝒒 𝒖 𝒆 𝒓 𝒒 𝒖 𝒆" + RESET)
+    print(VERDE_CLARO + "\n𝑽 𝒊 𝒏 𝒊́ 𝒄 𝒊 𝒖 𝒔   𝑨 𝒍 𝒃 𝒖 𝒒 𝒖 𝒆 𝒓 𝒒 𝒖 𝒆" + RESET)
     print("-=- Backend Dev's -=-")
     print("-=-"*20)
     print("\nObrigado por usar o sistema!")
