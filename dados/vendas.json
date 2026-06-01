@@ -1,0 +1,47 @@
+[
+    {
+        "identificacao": "João Silva",
+        "produto": "carne",
+        "qtd": 1,
+        "preco": 50,
+        "desconto": 0,
+        "entrada": 0,
+        "recebido": 50,
+        "valorFinal": 50,
+        "troco": 0,
+        "metodo": "Dinheiro",
+        "pago": true,
+        "id": "VD-0001",
+        "data": "22/05/2026, 09:34:25"
+    },
+    {
+        "identificacao": "Maria Costa",
+        "produto": "carne",
+        "qtd": 1,
+        "preco": 50,
+        "desconto": 0,
+        "entrada": 0,
+        "recebido": 50,
+        "valorFinal": 50,
+        "troco": 0,
+        "metodo": "PIX",
+        "pago": true,
+        "id": "VD-0002",
+        "data": "22/05/2026, 09:34:25"
+    },
+    {
+        "identificacao": "Pedro Lima",
+        "produto": "arroz",
+        "qtd": 2,
+        "preco": 8,
+        "desconto": 0,
+        "entrada": 16,
+        "recebido": 20,
+        "valorFinal": 0,
+        "troco": 4,
+        "metodo": "Dinheiro",
+        "pago": true,
+        "id": "VD-0003",
+        "data": "22/05/2026, 09:34:25"
+    }
+]
