@@ -1,0 +1,10 @@
+{
+    "carne": {
+        "quantidade": 11,
+        "preco": 10
+    },
+    "arroz": {
+        "quantidade": 0,
+        "preco": 8
+    }
+}
