@@ -1,0 +1,92 @@
+[
+    {
+        "produto": "carne",
+        "valor_aparelho": 50.0,
+        "entrada": 0.0,
+        "desconto": 0.0,
+        "valor_final": 50.0,
+        "troco": 10.0,
+        "data": "09/05/2026 23:56",
+        "vendedor": "gerente"
+    },
+    {
+        "produto": "carne",
+        "valor_aparelho": 50.0,
+        "entrada": 0.0,
+        "desconto": 0.0,
+        "valor_final": 50.0,
+        "troco": 0.0,
+        "data": "09/05/2026 23:57",
+        "vendedor": "gerente"
+    },
+    {
+        "produto": "carne",
+        "valor_aparelho": 50.0,
+        "entrada": 50.0,
+        "desconto": 0.0,
+        "valor_final": 0.0,
+        "troco": 0.0,
+        "data": "09/05/2026 23:57",
+        "vendedor": "gerente"
+    },
+    {
+        "produto": "carne",
+        "valor_aparelho": 50.0,
+        "entrada": 50.0,
+        "desconto": 0.0,
+        "valor_final": 0.0,
+        "troco": 0.0,
+        "data": "09/05/2026 23:58",
+        "vendedor": "gerente"
+    },
+    {
+        "produto": "carne",
+        "valor_aparelho": 50.0,
+        "entrada": 50.0,
+        "desconto": 0.0,
+        "valor_final": 0.0,
+        "troco": 0.0,
+        "data": "09/05/2026 23:58",
+        "vendedor": "gerente"
+    },
+    {
+        "produto": "carne",
+        "valor_aparelho": 50.0,
+        "entrada": 50.0,
+        "desconto": 1.0,
+        "valor_final": 0,
+        "troco": 0.0,
+        "data": "09/05/2026 23:58",
+        "vendedor": "gerente"
+    },
+    {
+        "produto": "carne",
+        "valor_aparelho": 50.0,
+        "entrada": 60.0,
+        "desconto": 10.0,
+        "valor_final": 0,
+        "troco": 0.0,
+        "data": "09/05/2026 23:58",
+        "vendedor": "gerente"
+    },
+    {
+        "produto": "carne",
+        "valor_aparelho": 50.0,
+        "entrada": 0.0,
+        "desconto": 10.0,
+        "valor_final": 45.0,
+        "troco": 5.0,
+        "data": "09/05/2026 23:59",
+        "vendedor": "gerente"
+    },
+    {
+        "produto": "carne",
+        "valor_aparelho": 50.0,
+        "entrada": 0.0,
+        "desconto": 0.0,
+        "valor_final": 50.0,
+        "troco": 0.0,
+        "data": "10/05/2026 00:20",
+        "vendedor": "gerente"
+    }
+]
