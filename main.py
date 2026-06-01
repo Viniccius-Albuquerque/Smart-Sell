@@ -31,7 +31,7 @@ def processar_estoque(estoque, perfil):
         menu_estoque()
         
         if perfil == "vendedor":
-            print(f"\nModo visualização (sem permissão para editar)")#aaaaaaaaaaa
+            print(f"\nModo visualização (sem permissão para editar)")#eae
         
         try:
             escolha = int(input("\nSelecione ação: "))
@@ -78,7 +78,7 @@ def processar_vendas(estoque, registro_vendas, perfil):
         elif escolha == 0:
             break
         else:
-            print("Opção inválida!")
+            print("Opção inválida!") #teste
             pausar()
     
     return estoque, registro_vendas
